@@ -1,0 +1,46 @@
+Week 1 Homework
+
+
+Problem 1:
+Finish the following function body:
+
+// Given 3 ints print return the largest of the group.
+// Example: If your ints are: 
+// INPUT: a=4, b=30, c=2
+// OUTPUT: 30
+
+int biggestOfThree (int a, int b, int c){
+	
+}
+
+Problem 2:
+Finish the following function body:
+
+// Given 2 ints print return the area.
+// Example: If your ints are: 
+// INPUT: width=30, heigth=10;
+// OUTPUT: 300
+
+int area (int width, int height){
+	
+}
+
+
+
+Problem 3:
+Finish the following function body:
+
+// Given 1 int print return its factorial
+// Example: If your ints are: 
+// INPUT: a = 4
+// OUTPUT: 24
+
+// HINT: A loop is needed for this
+
+int factorial(int a){
+	
+}
+
+
+
+
