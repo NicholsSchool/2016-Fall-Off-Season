@@ -7,4 +7,11 @@ Links:
 * [WPI Lib](https://wpilib.screenstepslive.com/s/4485/m/13809 "Title"). 
 * [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php "Title").
 
+Off Season Ideas:
+* Camera Teacking and Auto Shoot
+* Lidar Sensors
+* Explore More Sensors
+* Auto Replay
+* Camera Tracking to Driver
+* Scouting App/ Web App
 
